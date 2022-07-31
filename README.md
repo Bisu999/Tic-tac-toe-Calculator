@@ -1,5 +1,5 @@
 # html-css-js-project-boilerplate
-# Hi, I'm BIswajit Debata! 👋
+# Hi, I'm Biswajit Debata! 👋
 
   
 ## 🚀 About Me
